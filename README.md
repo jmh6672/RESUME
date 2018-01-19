@@ -23,11 +23,11 @@
 
 
 ### Skills
-*Language
+* Language
 *   Java, C#, C++, Swift4.0, Python
 *   Database : MySQL
 *   Others : Github
-*Tool
+* Tool
 *   Unity3D, Android studio, Xcode
 
 
