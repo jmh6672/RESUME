@@ -24,11 +24,11 @@
 
 ### Skills
 *Language
-** Java, C#, C++, Swift4.0, Python
-** Database : MySQL
-** Others : Github
+*   Java, C#, C++, Swift4.0, Python
+*   Database : MySQL
+*   Others : Github
 *Tool
-** Unity3D, Android studio, Xcode
+*   Unity3D, Android studio, Xcode
 
 
 ### Experience
